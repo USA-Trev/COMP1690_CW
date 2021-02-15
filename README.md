@@ -1,4 +1,6 @@
 # COMP1690_CW
+THIS IS A WORK IN PROGRESS. I am currently working on the 1st of 3 applications in this solution.
+
 This is a multi-application project for a fictitious car-rental company. 
 The project includes a desktop application for the car-rental admin members to manage services, a mobile app for the drivers to log into and view/record their journeys, 
 and a web API so the desktop and mobile apps can communicate with a SQL server database.
