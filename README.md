@@ -3,7 +3,7 @@ THIS IS A WORK IN PROGRESS. I am currently working on the 1st of 3 applications 
 
 This is a multi-application project for a fictitious car-rental company. 
 The project includes a desktop application for the car-rental admin members to manage services, a mobile app for the drivers to log into and view/record their journeys, 
-and a web API so the desktop and mobile apps can communicate with a SQL server database.
+and a web API so the mobile app can communicate with a SQL server database.
 
 This was a coursework assignment given to me during the final year of my undergrad in software engineering.
 Due to managing a heavy courseload, I felt that I didn't get to spend as much time working on this project as I wanted to.
