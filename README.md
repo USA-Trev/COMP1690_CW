@@ -40,7 +40,7 @@ There are strict requirements about the technologies and architecture to beimple
 The basic functionality should consist of a desktop application which enables an admin user at Speedy Taxis to manage taxi drivers and record
 their training and qualifications. The information has to be saved in a database. You can use any relational database management system you
 wish (e.g. SQLServer, MySQL, Oracle, Access, etc.). The database should be normalised and use primary key and foreign key constraints.
-The desktop application should be created as a Windows Forms application using C#.
+The desktop application should be created as a Windows Forms Application using C#.
 
 The application needs to provide the following functionality to an admin user:
 - Log in
