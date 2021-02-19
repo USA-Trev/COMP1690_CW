@@ -94,3 +94,6 @@ light and an 8% chance of an accident.
 Create a visualisation component which makes it possible to visually depict a driver’s likelihood of being involved in an incident. It could also
 combine details of the different types of incidents in a single widget. The visual component should be integrated into the desktop application you
 created for the admin users.
+
+--- MY DATABASE ERD ---
+https://lucid.app/lucidchart/invitations/accept/c7453826-a3c4-4bfe-8b5b-87e0e554b493
