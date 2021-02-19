@@ -62,7 +62,7 @@ data entry of phone numbers, you should implement a Phone Textbox. Implement a c
 only allow numbers to be entered. Further, it should display the numbers that are entered into it in red if there are more than 11. The Phone
 Textbox component should be integrated into the application so it is used instead of a normal textbox when entering a phone number for a driver.
 
-It must be possible for an admin user to view a list of drivers and for aparticular driver show his/her qualifications and training.
+It must be possible for an admin user to view a list of drivers and for a particular driver show his/her qualifications and training.
 
 --- INTERMEDIATE FUNCTIONALITY ---
 It should be possible to create entries in a driver’s disciplinary record. This functionality should be added to the desktop application developed for the
